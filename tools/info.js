@@ -4,7 +4,7 @@ const okInfo = [
         type: "list",
         name: "Read",
         message: "Just Simple Information:\n",
-        choices: ["❆ Information", "❆ Attention", "❆ Warning", "❆ License", "❆ Me", "\n"],
+        choices: ["> Information", "> Attention", "> Warning", "> License", "❆ Me", "\n"],
     },
 ];
 const main = async () => {
@@ -12,7 +12,7 @@ const main = async () => {
         var okChoise = await inquirer.prompt(okInfo);
         okChoise = okChoise.Read;
         switch (okChoise) {
-            case "❆ Information":
+            case "> Information":
                 print(
                     chalk`{bold.green
   Instagram (also called IG or Insta) is a photo and
@@ -22,7 +22,7 @@ const main = async () => {
                 );
                 break;
 
-            case "❆ Attention":
+            case "> Attention":
                 print(
                     chalk`{bold.green
   This file was originally changed by officialputuid,
@@ -32,7 +32,7 @@ const main = async () => {
                 );
                 break;
 
-            case "❆ Warning":
+            case "> Warning":
                 print(
                     chalk`{bold.green
   ⚠ Use tools at your own risk.
@@ -42,7 +42,7 @@ const main = async () => {
                 );
                 break;
 
-            case "❆ License":
+            case "> License":
                 print(
                     chalk`{bold.green
   MIT License
@@ -69,7 +69,7 @@ const main = async () => {
                 );
                 break;
 
-            case "❆ Me":
+            case "> Me":
                 print(
                     chalk`{bold.green
   Instagram (https://instagram.com/_.baybae)
