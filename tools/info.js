@@ -4,7 +4,7 @@ const okInfo = [
         type: "list",
         name: "Read",
         message: "Just Simple Information:\n",
-        choices: ["> Information", "> Attention", "> Warning", "> License", "❆ Me", "\n"],
+        choices: ["> Information", "> Attention", "> Warning", "> License", "> Me", "\n"],
     },
 ];
 const main = async () => {
