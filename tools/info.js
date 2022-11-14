@@ -47,7 +47,7 @@ const main = async () => {
                     chalk`{bold.green
   MIT License
 
-  Copyright (c) 2021 officialputuid
+  Copyright (c) 2021 bayfrs
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
@@ -72,13 +72,13 @@ const main = async () => {
             case "❆ Me":
                 print(
                     chalk`{bold.green
-  Instagram (https://instagram.com/officialputuid)
-  Youtube   (https://youtube.com/c/officialputuid)
-  Facebook  (https://facebook.con/officialputuid)
-  Twitter   (https://twitter.com/officialputuid)
-  Github    (https://github.com/officialputuid)
+  Instagram (https://instagram.com/_.baybae)
+  Youtube   (https://youtube.com/c/bayfrs)
+  Facebook  (https://facebook.con/baybae)
+  Twitter   (https://twitter.com/bayfrs)
+  Github    (https://github.com/bayfrs)
 
-  Donation? Trakteer.id/officialputuid}`
+  Donation? Trakteer.id/baybae}`
                 );
                 break;
 
