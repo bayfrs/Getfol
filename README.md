@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/bayfrs/Karuta#Goig">Goig</a> •
-  <a href="https://github.com/bayfrs/Karuta#Requirements">Requirements</a> •
-  <a href="https://github.com/bayfrs/Karuta#Instalasi">Installation</a> •
-  <a href="https://github.com/bayfrs/Karuta#Tools Menu">Tools Menu</a> •
-  <a href="https://github.com/bayfrs/Karuta#donate">donate</a> •
-    <a href="https://github.com/bayfrs/Karuta#Warning">Warning</a> •
-      <a href="https://github.com/bayfrs/Karuta#Informasi">Informasi</a> •
-  <a href="https://github.com/bayfrs/Karuta#License">License</a> •
+  <a href="https://github.com/bayfrs/Goig#Goig">Goig</a> •
+  <a href="https://github.com/bayfrs/Goig#Requirements">Requirements</a> •
+  <a href="https://github.com/bayfrs/Goig#Instalasi">Installation</a> •
+  <a href="https://github.com/bayfrs/Goig#Tools Menu">Tools Menu</a> •
+  <a href="https://github.com/bayfrs/Goig#donate">donate</a> •
+    <a href="https://github.com/bayfrs/Goig#Warning">Warning</a> •
+      <a href="https://github.com/bayfrs/Goig#Informasi">Informasi</a> •
+  <a href="https://github.com/bayfrs/Goig#License">License</a> •
 </p>
 </div>
 
