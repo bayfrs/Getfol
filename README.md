@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/bayfrs/Karuta/main/20221111_001827.png" alt="Karuta" width="100"/>
+<img src="https://raw.githubusercontent.com/bayfrs/Goig/master/20221114_173106.png" alt="Karuta" width="100"/>
 
 
 </p>
@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/bayfrs/Karuta#Goig">Goig</a> �
-  <a href="https://github.com/bayfrs/Karuta#Requirements">Requirements</a> �
-  <a href="https://github.com/bayfrs/Karuta#Instalasi">Installation</a> �
-  <a href="https://github.com/bayfrs/Karuta#Tools Menu">Tools Menu</a> �
-  <a href="https://github.com/bayfrs/Karuta#donate">donate</a> �
-    <a href="https://github.com/bayfrs/Karuta#Warning">Warning</a> �
-      <a href="https://github.com/bayfrs/Karuta#Informasi">Informasi</a> �
-  <a href="https://github.com/bayfrs/Karuta#License">License</a> �
+  <a href="https://github.com/bayfrs/Karuta#Goig">Goig</a> •
+  <a href="https://github.com/bayfrs/Karuta#Requirements">Requirements</a> •
+  <a href="https://github.com/bayfrs/Karuta#Instalasi">Installation</a> •
+  <a href="https://github.com/bayfrs/Karuta#Tools Menu">Tools Menu</a> •
+  <a href="https://github.com/bayfrs/Karuta#donate">donate</a> •
+    <a href="https://github.com/bayfrs/Karuta#Warning">Warning</a> •
+      <a href="https://github.com/bayfrs/Karuta#Informasi">Informasi</a> •
+  <a href="https://github.com/bayfrs/Karuta#License">License</a> •
 </p>
 </div>
 
@@ -59,24 +59,24 @@ node index.js
 	
 ```
 ## Tools Menu
-	➥ Bot Like Timeline
-	➥ Bot Like Target User
-	➥ Mass Delete Post/Photo
-	➥ F-L -> Followers Target [NEW]
-	➥ L-C -> Followers Target [NEW]
-	➥ F-L-C -> Followers Target
-	➥ F-L-C -> Followers Target [BETA]
-	➥ F-L-C -> Followers Target v2
-	➥ F-L-DM -> Followers Target
-	➥ F-L-DM -> Followers Target [BETA]
-	➥ F-L-C -> Hashtag Target
-	➥ F-L-C -> Location Target
-	➥ Unfollow All Following
-	➥ Unfollow Not Followback
+	âž¥ Bot Like Timeline
+	âž¥ Bot Like Target User
+	âž¥ Mass Delete Post/Photo
+	âž¥ F-L -> Followers Target [NEW]
+	âž¥ L-C -> Followers Target [NEW]
+	âž¥ F-L-C -> Followers Target
+	âž¥ F-L-C -> Followers Target [BETA]
+	âž¥ F-L-C -> Followers Target v2
+	âž¥ F-L-DM -> Followers Target
+	âž¥ F-L-DM -> Followers Target [BETA]
+	âž¥ F-L-C -> Hashtag Target
+	âž¥ F-L-C -> Location Target
+	âž¥ Unfollow All Following
+	âž¥ Unfollow Not Followback
 	
-	🛈 F-L = Follow & Like
-	🛈 F-L-C = Follow, Like & Comment
-	🛈 F-L-DM = Follow, Like & Direct Message
+	ðŸ›ˆ F-L = Follow & Like
+	ðŸ›ˆ F-L-C = Follow, Like & Comment
+	ðŸ›ˆ F-L-DM = Follow, Like & Direct Message
 
 ## Donate
 - [Trakter](https://trakteer.id/baybae)
