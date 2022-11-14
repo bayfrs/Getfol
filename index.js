@@ -79,7 +79,7 @@ console.log(chalk`{bold.green
   => EMAIL  : bayfrs@gmail.com
   => UPDATE : Wednesday, November 14, 2022
        
-       Loading...
+  Loading...
   }`);
 console.log(chalk`{bold.red   }`);
 console.log("  => START  : ".bold.red + moment().format("D MMMM YYYY, h:mm:ss a"));
