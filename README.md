@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/bayfrs/Goig/master/20221114_190659.png" alt="Karuta" width="100"/>
+<img src="https://raw.githubusercontent.com/bayfrs/Goig/master/20221114_190659.png" alt="Karuta" width="200"/>
 
 
 </p>
