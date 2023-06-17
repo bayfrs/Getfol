@@ -88,8 +88,7 @@ console.log("  => YOUIP  : ".bold.red + addresses);
 console.log(chalk`{bold.red   }`);
 console.log(chalk`{bold.yellow
   Github =>
-  : @ccocot . @bayfrs . @aldinp16 . @rifqihaidar 
-  : @dilame . @ikiganteng . @masokky . @baybae
+  : @bayfrs 
 
 }\n`);
 main();
