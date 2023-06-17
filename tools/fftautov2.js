@@ -2,17 +2,7 @@ const { chalk, inquirer, _, fs, instagram, print, delay } = require("./index.js"
 
 (async () => {
     print(
-        chalk`{bold.green
-  ▄▄▄▄▄            ▄▄▌  .▄▄ · ▪   ▄▄ • 
-  •██  ▪     ▪     ██•  ▐█ ▀. ██ ▐█ ▀ ▪
-   ▐█.▪ ▄█▀▄  ▄█▀▄ ██▪  ▄▀▀▀█▄▐█·▄█ ▀█▄
-   ▐█▌·▐█▌.▐▌▐█▌.▐▌▐█▌▐▌▐█▄▪▐█▐█▌▐█▄▪▐█
-   ▀▀▀  ▀█▄▀▪ ▀█▄▀▪.▀▀▀  ▀▀▀▀ ▀▀▀·▀▀▀▀ 
-
-  Ξ TITLE  : Folow Like Comment (Followers Target) v2
-  Ξ NOTE   : Only Single Target, v2 of the previous tool
-  Ξ UPDATE : Wednesday, August 4, 2021 (GMT+8)
-           : TESTED "OK" BUG? YouTellMe!
+        chalk`{
     }`
     );
     const questions = [
