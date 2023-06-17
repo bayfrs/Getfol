@@ -3,16 +3,7 @@ const { chalk, inquirer, _, fs, instagram, print, delay } = require("./index.js"
 (async () => {
     print(
         chalk`{bold.green
-  ▄▄▄▄▄            ▄▄▌  .▄▄ · ▪   ▄▄ • 
-  •██  ▪     ▪     ██•  ▐█ ▀. ██ ▐█ ▀ ▪
-   ▐█.▪ ▄█▀▄  ▄█▀▄ ██▪  ▄▀▀▀█▄▐█·▄█ ▀█▄
-   ▐█▌·▐█▌.▐▌▐█▌.▐▌▐█▌▐▌▐█▄▪▐█▐█▌▐█▄▪▐█
-   ▀▀▀  ▀█▄▀▪ ▀█▄▀▪.▀▀▀  ▀▀▀▀ ▀▀▀·▀▀▀▀  
 
-  Ξ TITLE  : Folow Like Direct Message (Followers Target)
-  Ξ NOTE   : Only Single Target, for More use [BETA]
-  Ξ UPDATE : Wednesday, August 4, 2021 (GMT+8)
-           : TESTED "OK" BUG? YouTellMe!
     }`
     );
     const questions = [
