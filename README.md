@@ -6,7 +6,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="Getfol" src="https://img.shields.io/badge/Goig-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Getfol" src="https://img.shields.io/badge/Getfol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 <p align="center">
