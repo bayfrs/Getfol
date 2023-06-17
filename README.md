@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/bayfrs/Getfol/master/20230617_163200.png" alt="Karuta" width="200"/>
+<img src="" alt="Karuta" width="200"/>
 
 
 </p>
