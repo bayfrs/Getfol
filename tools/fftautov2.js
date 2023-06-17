@@ -2,7 +2,8 @@ const { chalk, inquirer, _, fs, instagram, print, delay } = require("./index.js"
 
 (async () => {
     print(
-        chalk`{
+        chalk`{bold.green
+
     }`
     );
     const questions = [
