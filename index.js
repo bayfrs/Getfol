@@ -75,7 +75,7 @@ const main = async () => {
 
 console.log(chalk`{bold.green
 
-  => TITLE  : Goig v4.0
+  => TITLE  : Getfol v4.0
   => EMAIL  : bayfrs@gmail.com
   => UPDATE : Wednesday, November 14, 2022
 
