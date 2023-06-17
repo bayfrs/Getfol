@@ -72,9 +72,9 @@ const main = async () => {
             case "> Me":
                 print(
                     chalk`{bold.green
-  Instagram (https://instagram.com/_.baybae)
+  Instagram (https://instagram.com/bayfrs)
   Youtube   (https://youtube.com/c/bayfrs)
-  Facebook  (https://facebook.con/baybae)
+  Facebook  (https://facebook.con/bayfrs)
   Twitter   (https://twitter.com/bayfrs)
   Github    (https://github.com/bayfrs)
 
